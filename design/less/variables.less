@@ -1,0 +1,24 @@
+//---------------------------
+//Import des fontes de google 
+//----------------------------
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic,700italic|Imprima);
+
+//syntax less integration de variable pour les fonte
+#fonts {
+  .nom_de_la_fontet (@weight: 300) {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-weight: @weight;
+  }
+}
+// exemple de code a utilise dans le css
+//#fonts > .nom_de_la_fonte;
+
+//---------------------------
+//chemin d'un dossier images 
+//----------------------------
+@images: "images";
+// exemple de code a utilise dans le css pour indiquer un chemin
+//background:transparent url('@{images}/kyriad.png') no-repeat 0 0;;
+
+
+
