@@ -1,0 +1,31 @@
+{
+  "name": "hgboilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/becaye/myboilerplate",
+  "authors": [
+    "Henri Gauffriau <henri.gauffriau@gmail.com>"
+  ],
+  "description": "Starting boilerplate for website",
+  "main": "/design/css/style.css",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "less",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "modernizr": "~2.8.3",
+    "detectizr": "~2.0.0"
+  },
+  "resolutions": {
+    "modernizr": "2.7.1"
+  }
+}
