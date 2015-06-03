@@ -1,4 +1,10 @@
 {
-  "directory": "design/js/libs",
-  "analytics": false
+  "directory": "app/components/",
+  "analytics": false,
+  "timeout": 120000,
+  "registry": {
+    "search": [
+      "http://localhost:8000"
+    ]
+  }
 }
