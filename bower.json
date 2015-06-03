@@ -6,15 +6,18 @@
     "Henri Gauffriau <henri.gauffriau@gmail.com>"
   ],
   "description": "Starting boilerplate for website",
-  "main": "/design/css/style.css",
+  "main": "index.html",
   "moduleType": [
     "globals"
+  ],
+    "keywords": [
+    "boilerplate",
+    "simple"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
-    "less",
     "bower_components",
     "test",
     "tests"
