@@ -16,6 +16,7 @@
   ],
   "license": "MIT",
   "ignore": [
+	".git",
 	".DS_Store",
     "node_modules",
     "bower_components",
