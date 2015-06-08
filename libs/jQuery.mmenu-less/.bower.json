@@ -1,0 +1,40 @@
+{
+  "name": "jQuery.mmenu-less",
+  "main": "src/js/jquery.mmenu.min.js",
+  "homepage": "http://mmenu.frebsite.nl/",
+  "authors": [
+    "Fred Heusschen <info@frebsite.nl>"
+  ],
+  "description": "The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.",
+  "keywords": [
+    "mmenu",
+    "menu",
+    "submenu",
+    "navigation",
+    "on-canvas",
+    "off-canvas",
+    "mobile",
+    "panels",
+    "app"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "Guardfile",
+    "index.html",
+    "*.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  },
+  "_release": "9ab18a55b4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9ab18a55b4870c737e70692cb14e16d99f1cf02b"
+  },
+  "_source": "git://github.com/ddctd143/jQuery.mmenu-less.git",
+  "_target": "*",
+  "_originalSource": "jQuery.mmenu-less",
+  "_direct": true
+}
